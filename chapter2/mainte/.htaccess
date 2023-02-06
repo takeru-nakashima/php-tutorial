@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "IDとパスワードを入力してください"
+AuthUserFile ///Applications/MAMP/htdocs/php-tutorial/chapter2/mainte/.htpassword
+require valid-user
